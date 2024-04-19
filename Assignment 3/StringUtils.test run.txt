@@ -1,0 +1,5 @@
+The "StringUtils class" is a tool for doing common things we often need to do with text, like sticking two pieces together, flipping them backward, making all the letters big (uppercase), or getting rid of extra spaces at the beginning or end.
+For the test objectives we planned on making sure that all the methods in the StringUtils class work right, no matter what kind of text we give them. This means we'll check them with normal words, blank spaces, and even when there's nothing at all (null). But even through all these checks up we still ran into some errors and therefore after multiple trials of fixing and trying to double check if the build path in the project was correct or if Junit source in the project library was still up to date and still we couldn't receive any result id the test was successful. 
+
+
+

@@ -1,0 +1,28 @@
+Test Report
+
+Test Case			Input 1				Input 2				Expected Result				Passed
+---------			-------				-------				---------------				------
+
+1					"string1"			"string2"			"string1string2"			yes
+2					""					"string2"			"string2"					yes
+3					"string1"			""					"string1"					yes
+4					""					""					""							yes
+5					"string_!"			"string2"			"string_!string2"			yes
+6					" string1"			"string2 "			" string1string2 "			yes
+7					"string 1"			"string 2"			"string 1string 2"			yes
+8					"string"								"gnirts"					yes
+9					"str 1"									"1 rts"						yes
+10					" str"									"trs "						yes
+11					"str_!"									"!_rts"						yes
+12					"string"								"STRING"					yes
+13					"str123"								"STR123"					yes
+14					"str_1"									"STR_1"						yes
+15					"str str"								"STR STR"					yes
+16					" string"								"string"					yes
+17					"string "								"string"					yes
+18					" string1 "								"string1"					yes
+19					" str_1 str_2 "							"str_1 str_2"				yes
+
+Summary:	all tests passed
+
+Recommendations:	none

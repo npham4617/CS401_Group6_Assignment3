@@ -56,7 +56,7 @@ public class Scott_Tanaka_StringUtilsTest {
 	            {'c', "string1", "", "string1" },
 	            {'c', "","",""},
 	            {'c', "string_!", "string2", "string_!string2"},
-	            {'c', " string1", "string2 "},
+	            {'c', " string1", "string2 ", " string1string2 "},
 	            {'c', "string 1", "string 2", "string 1string 2"},
 	            {'r', "", "string", "gnirts"},
 	            {'r', "", "str 1", "1 rts"},
