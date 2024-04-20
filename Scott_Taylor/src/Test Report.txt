@@ -1,0 +1,13 @@
+Test Results:
+concate method:
+-Check if empty strings are concatenated - Passed
+-Check if single chars are concateneted - Passed
+-Check if numeric strings are concatented - Passed
+-Check if trailing space strings are concatenated - Passed
+reverse method:
+-Check if string is reversed - Passed
+Conversion method:
+-Check if string is converted to uppercase - Passed
+trimming method:
+-Check if leading whitespace was trimmed from string - Passed
+-Check if trailing whitespace was trimmed from string - Passed

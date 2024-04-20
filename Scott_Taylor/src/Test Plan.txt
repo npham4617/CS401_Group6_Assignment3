@@ -1,0 +1,14 @@
+Test Plan:
+Objective: make sure the program stringutils class is functional
+Test Scenarios:
+-Check if empty strings are concatenated
+-Check if single chars are concateneted
+-Check if numeric strings are concatented
+-Check if trailing space strings are concatenated
+Test Data:
+            {"false", "FALSE"},
+            {"  true  ", "true"},
+            {"Read", "eadR"}, 
+            {"", ""},
+            {"5678", "8765"},
+            {"element", "e"}
